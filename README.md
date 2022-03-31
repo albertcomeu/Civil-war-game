@@ -1,2 +1,2 @@
 # **Civil-war-game**
-Civil war - Визуальная ролевая игра
+Civil war - Ролевая игра
